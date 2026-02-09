@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://127.0.0.1:8000", // backend URL
+  baseURL: "https://hrms-lite-b4v6.onrender.com/", 
 });
 
 export const getEmployees = () => API.get("/employees");
