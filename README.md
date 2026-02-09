@@ -66,6 +66,7 @@ This project demonstrates **end-to-end full-stack development**, including front
 ---
 
 ## 📂 Project Structure
+```
 HRMS-Lite/
 ├── backend/
 │   ├── main.py
@@ -90,7 +91,7 @@ HRMS-Lite/
 │   └── package.json
 │
 └── README.md             
-
+```
 ---
 
 ## 📌 Assumptions & Limitations
