@@ -68,20 +68,28 @@ This project demonstrates **end-to-end full-stack development**, including front
 ## 📂 Project Structure
 HRMS-Lite/
 ├── backend/
-│ ├── main.py
-│ ├── database.py
-│ ├── models.py
-│ ├── schemas.py
-│ ├── crud.py
-│ ├── requirements.txt
+│   ├── main.py              
+│   ├── database.py         
+│   ├── models.py            
+│   ├── schemas.py           
+│   ├── crud.py              
+│   ├── requirements.txt     
+│
 ├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── services/
-│ │ ├── App.jsx
-│ │ └── main.jsx
-│ └── package.json
-└── README.md
+│   ├── src/
+│   │   ├── components/     
+│   │   │   ├── EmployeeForm.jsx
+│   │   │   ├── EmployeeList.jsx
+│   │   │   ├── AttendanceForm.jsx
+│   │   │   └── AttendanceList.jsx
+│   │   ├── services/
+│   │   │   └── api.js       
+│   │   ├── App.jsx         
+│   │   └── main.jsx        
+│   ├── index.html
+│   └── package.json         
+│
+└── README.md                
 
 ---
 
