@@ -12,13 +12,11 @@ This project demonstrates **end-to-end full-stack development**, including front
 ## 🚀 Live Application
 
 - **Frontend (Vercel):**  
-  https://hrms-lite.vercel.app
+  https://hrms-lite-blush.vercel.app/
 
 - **Backend API (Render):**  
-  https://hrms-backend.onrender.com
+  https://hrms-lite-b4v6.onrender.com/
 
-- **API Documentation (Swagger):**  
-  https://hrms-backend.onrender.com/docs
 
 ---
 
